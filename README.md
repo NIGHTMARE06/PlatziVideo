@@ -11,4 +11,4 @@ Challenge of create a website from an image
 ![](website/myversion.png)
 
 ## How can i see the website?
-In [this page](https://alanzzant.github.io/PlatziVideo_Layout/)
+In [this page](https://alanzzant.github.io/PlatziVideo_layout/)
